@@ -1,0 +1,5 @@
+{
+    "require": {
+        "laravel-ja/comja5": "^1.0"
+    }
+}
